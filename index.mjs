@@ -10,7 +10,7 @@ import fs from "fs";
 // const outputPath = path.join(OUTPUT_DIR, "team.html");
 import render from "./src/page-template.js";
 
-import generateHTML from "./src/generateHTML.js";
+import generateHTML from "./src/new folder/generateHTML.js";
 let answersArr = [];
 
 // Write Code to gather information about the development team members, and render the HTML file.
