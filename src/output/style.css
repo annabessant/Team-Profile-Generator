@@ -1,0 +1,18 @@
+.team-heading {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.team-area {
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    background-color: blue;
+}
+
+.card-body {
+    display: flex;
+}
